@@ -1,4 +1,5 @@
 npm install 或 cnpm install 安装包依赖
+
 node app 启动项目
 
 + 开启跨域设置
