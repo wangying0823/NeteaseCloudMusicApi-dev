@@ -2,6 +2,8 @@ npm install 或 cnpm install 安装包依赖
 
 node app 启动项目
 
+跟react-music配合使用 请求网易云api
+
 + 开启跨域设置
 + 修改默认端口（3000 => 7010）
 + 修改推荐节目接口:/program/recommend
